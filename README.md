@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=berbil13)](https://github.com/berbil13/github-profile-trophy)
+
 
 - 🔭 I’m currently working on **making games with C# and Unity**
 
