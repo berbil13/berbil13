@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=berbil13" alt="berbil13" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=berbil13)](https://github.com/berbil13/github-profile-trophy)
 
 - 🔭 I’m currently working on **making games with C# and Unity**
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **b.erbil01@icloud.com**
 
 - 📄 Know about my experiences [https://batuhanerbill.com.tr/](https://batuhanerbill.com.tr/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/b.erbil51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="b.erbil51" height="30" width="40" /></a>
