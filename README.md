@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **b.erbil01@icloud.com**
 
-- 📄 Know about my experiences [https://batuhanerbill.com.tr/](https://batuhanerbill.com.tr/)
+- 📄 Know about my experiences [https://batuhanerbill.com.tr/](https://batuhanerbil.com.tr/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
